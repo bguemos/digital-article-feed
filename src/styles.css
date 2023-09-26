@@ -1,0 +1,66 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.main-content {
+  border: 5px darkolivegreen solid;
+  padding: 3rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.pics {
+  height: 300px;
+  width: 350px;
+}
+
+.headline {
+  font-size: 60px;
+  color: darkolivegreen;
+}
+
+.articleone {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: white;
+  opacity: 0.7;
+  padding: 3rem;
+}
+.articletwo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: white;
+  opacity: 0.7;
+  padding: 3rem;
+}
+.articlethree {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: white;
+  opacity: 0.7;
+  padding: 3rem;
+}
+.articlefour {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: white;
+  opacity: 0.7;
+  padding: 3rem;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.button {
+  font-size: 25px;
+  color: olive;
+}
+
+.button:hover {
+  cursor: pointer;
+}
